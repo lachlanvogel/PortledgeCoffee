@@ -1,0 +1,162 @@
+/* This will style the body element */
+body {
+    background-image: url(images/20220922-PumpkinCoffeeResources/PumpkinCoffeeResources/Blue_Bottle\,_Kyoto_Style_Ice_Coffee_\(5909775445\).jpeg);
+    background-color: rgb(236, 230, 168);
+    border: 0;
+    margin: 0;
+}
+
+/* This will style the wrapper class... center the content and give it a width */
+.wrapper {
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* This will style the header with a logo image in it */
+header {
+    min-height: 120px;
+}
+
+.coffeeLogo {
+    height: 125px;
+}
+
+/* The nav will contain links and be given a short height  */
+nav {
+    background-color: rgba(43, 183, 226, 0.375);
+    min-height: 32px;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 4px;
+}
+
+main h1 {
+    font-size: 85px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    text-shadow: 1px 1px 2px black;
+}
+
+.gift1 {
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.gift2 {
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* DO THIS: set the font size to 50px change the color to something light, pick a font family of your choice and add text shadow */
+main h2 {
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    text-shadow: 1px 1px 2px black;
+}
+
+/* DO THIS: set the font size to 18px, change the color, change the font family, add a text shadow  */
+main p {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    text-shadow: 1px 1px 2px black;
+    background-color: rgba(43, 183, 226, 0.375);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+nav a {
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-decoration: none;
+    padding-left: 16px;
+}
+
+/* This will style main which will contain text for the page */
+main {
+    min-height: 400px;
+    text-align: center;
+}
+
+/* This will style the embedded Google map area*/
+.map {
+    min-height: 200px;
+    background-color: rgba(43, 183, 226, 0.375);
+}
+
+/* This will style the footer */
+footer {
+    background-color: forestgreen;
+    min-height: 32px;
+}
+
+/* This will style main which will contain text for the page  */
+/* Make this dark orange  */
+main {
+    min-height: 400px;
+    text-align: center;
+    padding: 32px 128px;
+}
+
+/* This will style the embedded google map area */
+.map {
+    /* background-color: crimson; */
+    min-height: 200px;
+    text-align: center;
+}
+
+/* This will style the footer and content */
+footer {
+    background-color: rgba(43, 183, 226, 0.375);
+    min-height: 64px;
+}
+
+/* Add a color to the text, align the text to the center, change the font-family */
+footer p {
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 32px;
+}
+
+.contactusparagraph {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    text-shadow: 1px 1px 2px black;
+    background-color: rgba(43, 183, 226, 0.375);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.contactush2 {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    text-shadow: 1px 1px 2px black;
+    background-color: rgba(43, 183, 226, 0.375);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+ul {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    text-shadow: 1px 1px 2px black;
+    background-color: rgba(43, 183, 226, 0.375);
+    padding-bottom: 30px;
+    padding-top: 30px;
+    list-style-type: none;
+}
+
+.p2 {
+    color: whitesmoke;
+    background-color: rgba(43, 183, 226, 0.375);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
